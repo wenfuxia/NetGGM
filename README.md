@@ -10,7 +10,7 @@ Before running the code, ensure you have MATLAB installed with the **Parallel Co
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/AISTATS2025/AISTATS-2025.git
+   git clone https://github.com/wenfuxia/NetGGM.git
 2. Open MATLAB and navigate to the cloned repository folder.
 3. Run the `main.m` script.
 4. After running `main.m`, the following variables will be saved:
